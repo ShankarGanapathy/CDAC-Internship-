@@ -1,7 +1,7 @@
 # CDAC Internship
 
 ## Internship Designation :
-### SERVER SIDE SCRIPTING INTERN
+*  SERVER SIDE SCRIPTING INTERN
 
 ## Duration of Internship:
 * 2 months ( 1 April 18' - 31 May 18' )
@@ -14,4 +14,5 @@
 ## Any and all the files related to the CDAC intership are uploaded here.
 
 
-## Author: M Shankar Ganapathy
+## Author:
+ M Shankar Ganapathy
